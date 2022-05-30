@@ -6,5 +6,26 @@
 	
 	<body>
 	<h1>Hello Coursera </h1>
+	<p> Hello I am a useless coder. Haha.</p>
+	
+	<h5>Course pathway<h5>
+	<ul>
+	<li>Html
+	<ol>
+		<li>Basic positionings of components</li>
+		<li>About basic structure of tags</li>
+		<li>Types of tags </li>
+		<li>blah blah blah<li>
+	</ol>
+	</li>
+	<li>CSS
+	<ol>
+	<li>Selectors</li>	
+	<li>Combining selectors</li>
+	<li>Pseudo-selectors</li>
+	<li>blah blah blah</li>
+	</ol></li>
+	</ul>
+	
 	</body>
 </html>
